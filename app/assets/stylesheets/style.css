@@ -503,7 +503,7 @@ background-color: #212121;
 /* banner */
 
 .main-top {
-  background: url(/assets/b3.jpg) no-repeat bottom;
+  background-image: image-url(/assets/b3.jpg)no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -593,7 +593,7 @@ button.btn1:hover,
 }
 
 .color-img-five {
-  background: url(/assets/sr1.jpg)no-repeat center;
+  background-image: image-url(/assets/sr1.jpg)no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -610,7 +610,7 @@ button.btn1:hover,
 /*-- info-- */
 
 .info {
-  background: url(/assets/b3.jpg)no-repeat center;
+  background-image: image-url(/assets/b3.jpg)no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -801,6 +801,7 @@ ul.short_ls li {
 
 .stats {
   background: url(/assets/b5.jpg) no-repeat center;
+  
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
