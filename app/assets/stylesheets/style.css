@@ -503,8 +503,8 @@ background-color: #212121;
 /* banner */
 
 .main-top {
-  background-image: image-url(/assets/b3.jpg)no-repeat center;
-  background-size: cover;
+  background-image: url("/assets/b3.jpg");
+   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -593,7 +593,7 @@ button.btn1:hover,
 }
 
 .color-img-five {
-  background-image: image-url(/assets/sr1.jpg)no-repeat center;
+  background: url("/assets/sr1.jpg")no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -610,7 +610,7 @@ button.btn1:hover,
 /*-- info-- */
 
 .info {
-  background-image: image-url(/assets/b3.jpg)no-repeat center;
+  background: url("/assets/b3.jpg")no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -696,7 +696,7 @@ button.btn1:hover,
 
 .inner_page-banner {
   text-align: center;
-  background: url(/assets/b3.jpg) no-repeat center;
+  background: url("/assets/b3.jpg") no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -800,8 +800,7 @@ ul.short_ls li {
 /*-- stats-- */
 
 .stats {
-  background: url(/assets/b5.jpg) no-repeat center;
-  
+  background: url("/assets/b5.jpg") no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1034,7 +1033,7 @@ button.btn1 {
 a.move-top {
   width: 40px;
   height: 40px;
-  background: url(/assets/arrow.png) no-repeat 0px 0px;
+  background: url("/assets/arrow.png") no-repeat 0px 0px;
   display: inline-block;
 }
 
@@ -1762,11 +1761,6 @@ footer p a:hover {
   .news-date {
     top: 100px;
     width: 21%;
-  }
-
-
-  .news-date {
-    
   }
   .stats {
     min-height: 200px;
