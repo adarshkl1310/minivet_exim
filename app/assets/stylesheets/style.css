@@ -592,6 +592,8 @@ button.btn1:hover,
   background: #f5f5f5;
 }
 
+
+
 .color-img-five {
   background-image: url("/assets/sr1.jpg")no-repeat center;
   background-size: cover;
@@ -801,8 +803,7 @@ ul.short_ls li {
 
 .stats {
   background-image: url("/assets/b5.jpg")no-repeat center;
-
-  background-size: cover;
+   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -871,6 +872,7 @@ ul.short_ls li {
 
 /* price-- */
 
+/* price-- */
 
 /*-- contact-- */
 
