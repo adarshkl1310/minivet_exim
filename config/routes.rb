@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 
+root 'temps#index'
 get '/home' => 'temps#home'
 get '/blog' => 'temps#blog'
 get '/about' => 'temps#about'
