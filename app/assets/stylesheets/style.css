@@ -511,7 +511,7 @@ background-color: #212121;
 /* banner */
 
 .main-top {
-  background-image: url("/assets/b3.jpg")no-repeat center;
+  background-image: url("b3.jpg");
    background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -620,7 +620,7 @@ button.btn1:hover,
 /*-- info-- */
 
 .info {
-   background-image: url("/assets/b3.jpg");
+   background-image: url("b3.jpg");
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -706,7 +706,7 @@ button.btn1:hover,
 
 .inner_page-banner {
   text-align: center;
-  background-image: url("/assets/b3.jpg")no-repeat center;
+  background-image: url("b3.jpg");
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -810,7 +810,7 @@ ul.short_ls li {
 /*-- stats-- */
 
 .stats {
-  background-image: url("/assets/b5.jpg")no-repeat center;
+  background-image: url("b5.jpg");
    background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1035,7 +1035,7 @@ button.btn1 {
 a.move-top {
   width: 40px;
   height: 40px;
-  background-image: url("/assets/arrow.png")no-repeat center;
+  background-image: url("arrow.png");
 
   display: inline-block;
 }
