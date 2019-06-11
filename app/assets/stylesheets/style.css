@@ -603,7 +603,7 @@ button.btn1:hover,
 
 
 .color-img-five {
-  background-image: image-url("sr1.jpg");
+  background-image: url("sr1.jpg");
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -620,7 +620,7 @@ button.btn1:hover,
 /*-- info-- */
 
 .info {
-   background-image: image-url("/assets/b3.jpg");
+   background-image: url("/assets/b3.jpg");
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
